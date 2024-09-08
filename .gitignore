@@ -19,6 +19,8 @@ lib/
 lib64/
 parts/
 sdist/
+test/
+tests/
 var/
 wheels/
 share/python-wheels/
@@ -51,6 +53,7 @@ nosetests.xml
 coverage.xml
 *.cover
 *.py,cover
+tests.py
 .hypothesis/
 .pytest_cache/
 cover/
